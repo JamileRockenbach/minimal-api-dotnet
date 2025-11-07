@@ -1,11 +1,11 @@
-### 🚗 API de Registro de Veículos com Minimal API e JWT
+# 🚗 API de Registro de Veículos com Minimal API e JWT
 
 Projeto desenvolvido durante o Bootcamp Fullstack Developer da DIO, com o objetivo de construir uma API completa utilizando Minimal APIs em .NET e autenticação via JWT.
 O projeto permite o cadastro e gerenciamento de veículos, com controle de acesso por administradores e documentação através do Swagger.
 
 ---
 
-# 💡 Sobre o Desafio
+### 💡 Sobre o Desafio
 
 O desafio proposto pela DIO consistia em:
 
@@ -19,13 +19,13 @@ Adicionar testes e boas práticas para garantir confiabilidade
 
 ---
 
-# 📄 Licença
+### 📄 Licença
 
 Este projeto foi desenvolvido como parte do Bootcamp da DIO, apenas para fins de estudos e aprendizagem!
 
 ---
 
-# ⚙️ Funcionalidades Principais
+### ⚙️ Funcionalidades Principais
 
  - Cadastro, listagem, atualização e exclusão de veículos
  - Autenticação via JWT
@@ -36,7 +36,7 @@ Este projeto foi desenvolvido como parte do Bootcamp da DIO, apenas para fins de
 
 ---
 
-# 🧠 O que aprendi com este projeto
+### 🧠 O que aprendi com este projeto
 
 Compreender o funcionamento das Minimal APIs no .NET
 
@@ -50,7 +50,7 @@ Explorar boas práticas de estruturação de projetos back-end
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 C# / .NET 9
 
